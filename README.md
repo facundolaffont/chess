@@ -1,2 +1,2 @@
 # chess
-Chess games made with Java.
+Chess game made with Java.
